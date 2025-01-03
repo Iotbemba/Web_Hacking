@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Hacking(v1.0)
 
 ---
